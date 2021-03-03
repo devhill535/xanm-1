@@ -7,7 +7,7 @@ module.exports = {
   execute(message) {
     let commands = message.client.commands.array();
     let helpEmbed = new MessageEmbed()
-      .setAuthor(`Renox Help`)
+      .setAuthor(`Help BOT`)
       .setThumbnail(message.author.avatarURL({dynamic: "true"}))
       .setFooter(message.author.username,message.author.displayAvatarURL({ dynamic: "true" }))
       .setColor("RANDOM")
