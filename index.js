@@ -37,7 +37,7 @@ client.on(`ready`, () => {
       });
       
 
-    client.user.setActivity(`Type: ${PREFIX}help |`, { type: "PLAYING"});
+    client.user.setActivity(`Type: ${PREFIX}help `, { type: "PLAYING"});
    
   
       }, (5000));
