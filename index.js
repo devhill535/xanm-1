@@ -36,14 +36,14 @@ client.on(`ready`, () => {
         { return member.voice.channel.leave(); }
       });
       
-////////////////////////////
+
     client.on("ready", () => {
     console.log(`${client.user.username} ready!`)
   client.user.setActivity(`Type: x!help`, { type: "WATCHING"});
    
 })
    
-////////////////////////////
+
       }, (5000));
       ////////////////////////////////
       ////////////////////////////////
