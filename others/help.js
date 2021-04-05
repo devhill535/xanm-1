@@ -34,7 +34,7 @@ vibrato ,surrounding ,pulsator
 ,subboost ,clear
 
 \`
-**[   SUPPORT  ](https://discord.com/api/oauth2/authorize?client_id=733469607175913593&permissions=8&scope=bot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=828649540113661962&permissions=8&scope=bot) 
+**[   SUPPORT  ](https://discord.gg/VehtKMcb2N)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=828649540113661962&permissions=8&scope=bot) 
 
     //////////////
    //////////////
