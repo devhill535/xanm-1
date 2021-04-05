@@ -38,13 +38,11 @@ client.on(`ready`, () => {
       
 
     client.on("ready", () => {
-    console.log(`${client.user.username} ready!`)
-  client.user.setActivity(`Type: x!help`, { type: "WATCHING"});
-   
-})
+  console.log(`${client.user.username} ready!`);
+  client.user.setActivity(`${PREFIX}help | Server ${client.guilds.cache.size}`, { type: "WATCHING" });
    
 
-      }, (5000));
+     
       ////////////////////////////////
       ////////////////////////////////
     figlet.text(`${client.user.username} ready!`, function (err, data) {
