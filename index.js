@@ -36,10 +36,14 @@ client.on(`ready`, () => {
         { return member.voice.channel.leave(); }
       });
       
-
-    client.user.setActivity(`Type: ${PREFIX}help `, { type: "PLAYING"});
+////////////////////////////
+    client.on("ready", () => {
+    console.log(`${client.user.username} ready!`)
+  client.user.setActivity(`b/help`, { type: "WATCHING"});
    
-  
+})
+   
+////////////////////////////
       }, (5000));
       ////////////////////////////////
       ////////////////////////////////
