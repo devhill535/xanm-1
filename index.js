@@ -39,7 +39,7 @@ client.on(`ready`, () => {
 ////////////////////////////
     client.on("ready", () => {
     console.log(`${client.user.username} ready!`)
-  client.user.setActivity(`b/help`, { type: "WATCHING"});
+  client.user.setActivity(`Type: x!help`, { type: "WATCHING"});
    
 })
    
