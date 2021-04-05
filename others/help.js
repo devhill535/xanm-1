@@ -10,9 +10,9 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
     .setAuthor("Help Commands!","https://cdn.discordapp.com/emojis/775437938142085170.gif?v=1&size=64")
     .setImage('https://media.discordapp.net/attachments/807301710237270026/808391933759455282/image0.gif')
-    .setTitle(`**SONG BOT**`)
+    .setTitle(`**XANM**`)
     .setThumbnail("")
-    .setAuthor("Prefix [ $ ]","")
+    .setAuthor("Prefix [ x! ]","")
     .setDescription(` 
 \`Help Commands\`
 
