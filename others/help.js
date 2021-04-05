@@ -34,7 +34,7 @@ vibrato ,surrounding ,pulsator
 ,subboost ,clear
 
 \`
-**[   SUPPORT  ](https://discord.gg/robot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=789233974798319648&permissions=1342568564&scope=bot)  -  [   WEBSITE   ](https://website-renox.glitch.me)`)
+**[   SUPPORT  ](https://discord.com/api/oauth2/authorize?client_id=733469607175913593&permissions=8&scope=bot)** -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=828649540113661962&permissions=8&scope=bot) 
 
     //////////////
    //////////////
